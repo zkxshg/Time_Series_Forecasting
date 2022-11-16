@@ -1,4 +1,4 @@
-// Weekly Auto-Arima for cigar sale data
+# Weekly Auto-Arima for cigar sale data
 
 import itertools
 import pandas as pd
